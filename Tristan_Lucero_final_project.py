@@ -1,4 +1,4 @@
-## Tristan Lucero (R#11597605) | Final Project | 12/1/20
+## Tristan Lucero () | Final Project | 12/1/20
 ##
 ## This is a program to simulate cellular life 100 times based on some basic rules.
 ## An input file is given with O's and .'s, and based on it's neighbords the cell shoudl stay alive or die on the next turn.
